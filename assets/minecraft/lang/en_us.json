@@ -1,0 +1,14 @@
+{
+ "health.full": "\uE000",
+ "health.empty": "\uE001",
+ "health.full.left": "\uE002",
+ "health.empty.left": "\uE003",
+ "health.full.right": "\uE004",
+ "health.empty.right": "\uE005",
+ "mana.full": "\uE010",
+ "mana.empty": "\uE011",
+ "mana.full.left": "\uE012",
+ "mana.empty.left": "\uE013",
+ "mana.full.right": "\uE014",
+ "mana.empty.right": "\uE015"
+}
